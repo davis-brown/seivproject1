@@ -120,7 +120,7 @@
     color: rgb(22, 22, 22);
     
 }
-.whypage-content h3, h1{
+.whypage-content h3, h2{
     color: orangered;
     font-weight: 400;
     
@@ -129,6 +129,7 @@
 
 .whypage-content h1 {
     font-weight: lighter;
+    text-align: center;
 }
 
 .whypage-content {
