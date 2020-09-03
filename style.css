@@ -157,7 +157,7 @@
 
 
 
-.homepage-links .link1{
+.link1{
     width: 20%;
     height: 15vw;
     background: orangered;
@@ -170,7 +170,7 @@
 
 /*Hover Link*/
 
-.homepage-links .link1:hover h2{
+.link1:hover{
     width: 20%;
     background: whitesmoke;
     text-align: center;
@@ -181,7 +181,7 @@
     
 }
 
-.homepage-links .link2{
+.link2{
     width: 20%;
     float: left;
     height: 15vw;
@@ -194,7 +194,7 @@
 
 /*Hover Link*/
 
-.homepage-links .link2:hover{
+.link2:hover{
     width: 20%;
     background: whitesmoke;
     text-align: center;
@@ -204,7 +204,7 @@
     animation-duration: 1s;
 }
 
-.homepage-links .link3{
+.link3{
     width: 20%;
     float: left;
     height: 15vw;
@@ -217,7 +217,7 @@
 
 /*Hover Link*/
 
-.homepage-links .link3:hover{
+.link3:hover{
     width: 20%;
     background: whitesmoke;
     text-align: center;
@@ -227,7 +227,7 @@
     animation-duration: 1s;
 }
 
-.homepage-links .link4{
+.link4{
     width: 20%;
     float: left;
     height: 15vw;
@@ -240,7 +240,7 @@
 
 /*Hover Link*/
 
-.homepage-links .link4:hover{
+.link4:hover{
     width: 20%;
     background: whitesmoke;
     text-align: center;
@@ -250,7 +250,7 @@
     animation-duration: 1s;
 }
 
-.homepage-links .link5{
+.link5{
     width: 20%;
     float: left;
     height: 15vw;
@@ -263,7 +263,7 @@
 
 /*Hover Link*/
 
-.homepage-links .link5:hover{
+.link5:hover{
     width: 20%;
     background: whitesmoke;
     text-align: center;
