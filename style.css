@@ -170,7 +170,7 @@
 
 /*Hover Link*/
 
-.homepage-links .link1:hover{
+.homepage-links .link1:hover h2{
     width: 20%;
     background: whitesmoke;
     text-align: center;
